@@ -1,3 +1,8 @@
+body{
+    background: rgb(255, 138, 138);
+
+}
+
 .demo {
     border-color: red;
     font-size: 25px;
