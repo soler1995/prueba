@@ -1,0 +1,18 @@
+.demo {
+    border-color: red;
+    font-size: 25px;
+    border: 3px;
+    text-align: left;
+    color: red;
+    padding: 10px 10px;
+}
+
+.demo2 {
+    border-color: green;
+    font-size: 25px;
+    border: 3px;
+    text-align: left;
+    color: green;
+    padding: 10px 10px;
+
+}
